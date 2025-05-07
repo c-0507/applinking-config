@@ -1,0 +1,2 @@
+# applinking-config
+APPLinkingTest
